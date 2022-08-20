@@ -1,0 +1,14 @@
+{
+  "name": "adminlte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap-adminlte": "npm:bootstrap@^4.6.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
